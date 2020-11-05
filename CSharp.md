@@ -1,18 +1,12 @@
-## CSharp Notes 
-
-### DateTime 
-
-    var dt = new DateTime()
+### CSharp Notes 
 
 
-### Verify if a character is a letter or a number or anything else. 
+DateTime 
 
-    class MainClass {
-    public static void Main (string[] args) {
-        char c = '7';
-        bool isVowel = "aeiouAEIOU".IndexOf(c) >= 0;
-        bool isInt = "1234567890".IndexOf(c) >= 0;
-        Console.WriteLine (isInt);
-    }
-    }
+var dt = new DateTime()
+
+takes year, month, day, hour, minutes, seconds and so on as parameters. 
+
+
+How to find a specific date with Date Time 
 
