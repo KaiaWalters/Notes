@@ -1,5 +1,5 @@
 
-## Source: [Convert A Hex String To RGB 5kyu ](https://www.codewars.com/kata/5282b48bb70058e4c4000fa7/train/javascript)
+### [Convert A Hex String To RGB 5kyu ](https://www.codewars.com/kata/5282b48bb70058e4c4000fa7/train/javascript)
 
 .toString() can take a "radix" as a parameter. "radix" must be between 2 and 36. Returns a value that represents a numeric value. 
 
